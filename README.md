@@ -1,1 +1,1 @@
-# Sientific-calculator-by-python
+# scientific calculator-by-python
